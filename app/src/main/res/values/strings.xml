@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OmniNote</string>
+    <string name="tab_todos">To-Do</string>
+    <string name="tab_notes">Notes</string>
+    <string name="tab_cash">Cash Notes</string>
+    <string name="tab_analytics">Analytics</string>
+</resources>

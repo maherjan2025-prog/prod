@@ -1,0 +1,6 @@
+{
+  "name": "OmniNote",
+  "description": "Advanced all-in-one productivity app with To-Do lists, rich notes, and SQLite cash notes ledger with balance tracking and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
